@@ -6,7 +6,8 @@ flake8==3.7.8
 tox==3.14.0
 coverage==4.5.4
 Sphinx==1.8.5
-twine==1.14.0
+pyinstaller==4.2
+setuptools==54.1.2
 
 pytest==4.6.5
 pytest-runner==5.1

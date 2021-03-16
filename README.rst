@@ -6,8 +6,8 @@ chasm
 .. image:: https://img.shields.io/pypi/v/chasm.svg
         :target: https://pypi.python.org/pypi/chasm
 
-.. image:: https://img.shields.io/travis/j-awn/chasm.svg
-        :target: https://travis-ci.com/j-awn/chasm
+.. image:: https://img.shields.io/github/workflow/status/j-awn/chasm/Python%20application?logo=github
+        :target: https://github.com/j-awn/chasm/actions/workflows/python-app.yml
 
 .. image:: https://readthedocs.org/projects/chasm/badge/?version=latest
         :target: https://chasm.readthedocs.io/en/latest/?version=latest
