@@ -23,7 +23,7 @@ chasm
 improved chemi-compiler-compiler for goonstation
 
 
-* Free software: MIT license
+* Free software: Creative Commons Attribution-NonCommercial-ShareAlike 3.0 United States License
 * Documentation: https://chasm.readthedocs.io.
 
 
